@@ -1,0 +1,4 @@
+# AI Flood Guard - Dependencies
+numpy>=1.24.0
+scikit-learn>=1.3.0
+colorama>=0.4.6
